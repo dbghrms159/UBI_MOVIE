@@ -55,13 +55,36 @@ MS sql기반의 DataBase설계
 
 # UI 및 아이콘
   아이콘<br>
+  ![image](https://user-images.githubusercontent.com/38156821/43896235-113acf50-9c13-11e8-96c7-341637f5ba15.png)
+
   <br>Loding UI(어플리케이션을 실행시에 발생하는 이벤트로 어플 실행중 로딩화면, 서버가 연결이 되면 메인 화면으로 넘어간다)<br>
+  ![image](https://user-images.githubusercontent.com/38156821/43896238-15a5777a-9c13-11e8-9239-8288307f3239.png)
+
   <br>Main UI View Flipper(메인 화면어세 최신 개봉작들을 View Flipper기술을 사용하여 슬라이드로 전환 시켜 사용자에게 시각적으로 보여준다)<br>
-  <br>Main UIurl 연결(클릭시 네이버 영화 링크나 이동된 유튜브 체널로 넘어가 최신 예고편을 확인할수 있다.)<br>
-  <br>상단 Menu UI(Main UI상단에 장르별로 나누어 클릭시 해당 장르의 박스오피스 순위를 보여준다.)<br>
-  <br>Sub Menu UI(Main UI 왼쪽 상단에 서버 메뉴 아이콘을 클릭시 나타나는 이벤트로 크게 5가지로 구성된다.)<br>
-  <br>Sub Menu UI - 올해의 박스오피스 순위(한국에서 개봉된 올해 영화중 실 관람객 수를 기준으로 내림차순으로 보여준다)<br>
-  <br>Sub Menu UI - 올해의 무비 스크린 순위(올해 영화관에서 상영한 스크린 개수를 기준으로 가장 많이 스크린을 가진 영화를 내림차순으로 보여준다)<br>
-  <br>Sub Menu UI - 올해의 무비 상영 순위(전국 영화관에서 상영 횟수를 기준으로 가장 많은 회수를 기롤한 영화를 내림차순으로 보여준다)<br>
-  <br>Sub Menu UI - 리뷰 게시판(사용자가 리뷰를 작성하고 싶은 영화가 있다면 리뷰 게시판의 글쓰기 버튼을 누르면, 리뷰 작성화면으로 전환이 되고 영화 내용을 입력후 글쓰기 버툰을 클릭시 리뷰가 작성이 되어 저장이 된다.)<br>
+  ![image](https://user-images.githubusercontent.com/38156821/43896247-1deb716e-9c13-11e8-9f13-cde0b2065a8c.png)
   
+  <br>Main UIurl 연결(클릭시 네이버 영화 링크나 이동된 유튜브 체널로 넘어가 최신 예고편을 확인할수 있다.)<br>
+  ![image](https://user-images.githubusercontent.com/38156821/43896253-26326f30-9c13-11e8-8541-1436e659ed51.png)
+  ![image](https://user-images.githubusercontent.com/38156821/43896261-32bb3de0-9c13-11e8-852c-5dd9aeeabf2f.png)
+  ![image](https://user-images.githubusercontent.com/38156821/43896272-3ae09592-9c13-11e8-8829-df8bb10fe43a.png)
+
+  <br>상단 Menu UI(Main UI상단에 장르별로 나누어 클릭시 해당 장르의 박스오피스 순위를 보여준다.)<br>
+  ![image](https://user-images.githubusercontent.com/38156821/43896296-4e5437b4-9c13-11e8-8bd0-4cb8cce5d9d2.png)
+
+  <br>Sub Menu UI(Main UI 왼쪽 상단에 서버 메뉴 아이콘을 클릭시 나타나는 이벤트로 크게 5가지로 구성된다.)<br>
+  ![image](https://user-images.githubusercontent.com/38156821/43896302-52f3daea-9c13-11e8-8903-da80f676acaa.png)
+
+  <br>Sub Menu UI - 올해의 박스오피스 순위(한국에서 개봉된 올해 영화중 실 관람객 수를 기준으로 내림차순으로 보여준다)<br>
+  ![image](https://user-images.githubusercontent.com/38156821/43896308-559e9eba-9c13-11e8-8b30-94e843371f9f.png)
+
+  <br>Sub Menu UI - 올해의 무비 스크린 순위(올해 영화관에서 상영한 스크린 개수를 기준으로 가장 많이 스크린을 가진 영화를 내림차순으로 보여준다)<br>
+  ![image](https://user-images.githubusercontent.com/38156821/43896312-590977dc-9c13-11e8-891e-5605ed243ca5.png)
+
+  <br>Sub Menu UI - 올해의 무비 상영 순위(전국 영화관에서 상영 횟수를 기준으로 가장 많은 회수를 기롤한 영화를 내림차순으로 보여준다)<br>
+  ![image](https://user-images.githubusercontent.com/38156821/43896317-5bf28222-9c13-11e8-8210-5c94bdec3943.png)
+
+  <br>Sub Menu UI - 리뷰 게시판(사용자가 리뷰를 작성하고 싶은 영화가 있다면 리뷰 게시판의 글쓰기 버튼을 누르면, 리뷰 작성화면으로 전환이 되고 영화 내용을 입력후 글쓰기 버툰을 클릭시 리뷰가 작성이 되어 저장이 된다.)<br>
+  ![image](https://user-images.githubusercontent.com/38156821/43896324-5f4ad794-9c13-11e8-8c3b-89e10540b471.png)
+  
+
+
