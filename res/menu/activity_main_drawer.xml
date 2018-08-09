@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item android:title="SUB MENU">
+        <menu>
+            <item
+                android:id="@+id/nav_money"
+                android:icon="@drawable/money"
+                android:title="역대 박스오피스 순위" />
+            <item
+                android:id="@+id/nav_sevmoney"
+                android:icon="@drawable/money2"
+                android:title="올해의 박스오피스 순위" />
+            <item
+                android:id="@+id/nav_screen"
+                android:icon="@drawable/screen"
+                android:title="올해의 무비 스크린 순위" />
+            <item
+                android:id="@+id/nav_moviecount"
+                android:icon="@drawable/moviecount"
+                android:title="올해의 무비 상영 순위" />
+        </menu>
+    </item>
+    <item android:title="REVIEW">
+        <menu>
+            <item
+                android:id="@+id/nav_review"
+                android:icon="@drawable/review2"
+                android:title="영화 리뷰 게시판" />
+        </menu>
+    </item>
+
+    <item android:title="DEVELOPER">
+        <menu>
+            <item
+                android:id="@+id/nav_developer"
+                android:icon="@drawable/developer"
+                android:title="개발자들" />
+        </menu>
+    </item>
+
+</menu>

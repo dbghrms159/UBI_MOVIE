@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#b7b7b7</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colors">#ffffff</color>
+    <color name="breack">#000000</color>
+</resources>
